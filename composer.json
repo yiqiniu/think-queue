@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-queue",
+    "name": "yiqiniu/think-queue",
     "description": "The ThinkPHP5 Queue Package",
     "authors": [
         {
@@ -25,8 +25,8 @@
     "require": {
         "ext-json": "*",
         "topthink/think-helper": "^3.0.4",
-        "topthink/framework": "^6.0.0",
-        "topthink/think-factory": "^1.0.0",
+        "yiqiniu/framework": "^6.0.*.dev",
+        "yiqiniu/think-factory": "^1.0.*.dev",
         "symfony/process": "^4.2",
         "nesbot/carbon": "^2.16"
     },
